@@ -4,7 +4,13 @@
 
 ## Data visualisation with decision boundary ----
 
-### Training set
+### Training Set--
 
 
 ![randomforest-trainingset](https://user-images.githubusercontent.com/40026126/44357996-4787c380-a4d1-11e8-9040-9f90882ab6f8.PNG)
+
+
+### Testing Set--
+
+
+![randomforest-testingset](https://user-images.githubusercontent.com/40026126/44357999-4bb3e100-a4d1-11e8-8cb5-045192c2fe74.PNG)
