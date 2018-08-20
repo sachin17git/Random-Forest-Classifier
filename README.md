@@ -5,3 +5,6 @@
 ## Data visualisation with decision boundary ----
 
 ### Training set
+
+
+![randomforest-trainingset](https://user-images.githubusercontent.com/40026126/44357996-4787c380-a4d1-11e8-9040-9f90882ab6f8.PNG)
